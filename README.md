@@ -2,7 +2,7 @@
 ## Woah! Calm down, let's break down the questions.
 
 # Who are we?
-We're the Sunset team, hey!
+We're the Sunset team, haii!
 
 # What are we doing?
 We're coding an alternative/"improved version" of sunsi, as it's a great bit flawed.
